@@ -32,4 +32,11 @@
     <string name="home_screen_quick_fall">Quick fall</string>
     <string name="home_screen_spin">Spin</string>
     <string name="home_screen_thud">Thud</string>
+    <string name="resist_screen_title">Resist</string>
+    <string name="resist_screen_drag_down">Drag down</string>
+    <string name="resist_screen_and_release">And release</string>
+    <string name="message_degraded_experience">Not fully supported by your current device.</string>
+    <string name="message_not_supported">Not supported by your current device.</string>
+
+
 </resources>
